@@ -1,0 +1,1 @@
+from .ordonnance_template_controller import ordonnance_template_router

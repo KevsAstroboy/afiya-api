@@ -1,0 +1,1 @@
+from .statut_paiement_repository import StatutPaiementRepository

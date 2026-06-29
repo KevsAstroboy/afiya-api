@@ -1,0 +1,1 @@
+from .medecin_disponibilite_entity import MedecinDisponibiliteEntity

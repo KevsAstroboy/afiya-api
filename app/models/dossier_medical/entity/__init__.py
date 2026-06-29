@@ -1,0 +1,1 @@
+from .dossier_medical_entity import DossierMedicalEntity

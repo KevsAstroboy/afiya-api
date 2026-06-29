@@ -1,0 +1,1 @@
+from .images_consultation_controller import images_consultation_router

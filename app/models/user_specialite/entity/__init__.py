@@ -1,0 +1,1 @@
+from .user_specialite_entity import UserSpecialiteEntity

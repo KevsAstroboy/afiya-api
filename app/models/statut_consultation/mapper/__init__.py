@@ -1,0 +1,1 @@
+from .statut_consultation_mapper import StatutConsultationMapper

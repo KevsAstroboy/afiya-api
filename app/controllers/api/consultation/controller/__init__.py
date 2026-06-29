@@ -1,0 +1,1 @@
+from .consultation_controller import consultation_router

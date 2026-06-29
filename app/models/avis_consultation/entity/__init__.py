@@ -1,0 +1,1 @@
+from .avis_consultation_entity import AvisConsultationEntity

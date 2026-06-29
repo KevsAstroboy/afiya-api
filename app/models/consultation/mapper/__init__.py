@@ -1,0 +1,1 @@
+from .consultation_mapper import ConsultationMapper

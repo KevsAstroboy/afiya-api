@@ -1,0 +1,1 @@
+from .statut_paiement_mapper import StatutPaiementMapper

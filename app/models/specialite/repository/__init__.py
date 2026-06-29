@@ -1,0 +1,1 @@
+from .specialite_repository import SpecialiteRepository

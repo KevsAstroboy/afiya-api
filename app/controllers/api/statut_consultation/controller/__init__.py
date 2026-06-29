@@ -1,0 +1,1 @@
+from .statut_consultation_controller import statut_consultation_router

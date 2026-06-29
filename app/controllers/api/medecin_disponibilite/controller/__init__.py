@@ -1,0 +1,1 @@
+from .medecin_disponibilite_controller import medecin_disponibilite_router
